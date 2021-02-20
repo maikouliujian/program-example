@@ -37,6 +37,8 @@ import java.util.Properties;
 /**
  * Calcite example use HepPlanner
  *
+ * https://matt33.com/2019/03/17/apache-calcite-planner/
+ *
  * @author matt
  * @date 2019-03-19 19:58
  */
